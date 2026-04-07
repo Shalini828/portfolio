@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 💼 Shalini Jha – Portfolio
 
-# Run and deploy your AI Studio app
+Welcome to my personal developer portfolio 🚀
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/601fa4f0-f0f2-4697-b8d1-3f45478c4bc5
+👉 (Add your Vercel link here after deployment)
 
-## Run Locally
+## 👩‍💻 About Me
 
-**Prerequisites:**  Node.js
+I am a passionate Full Stack Developer exploring AI and building real-world projects.
+I enjoy solving problems, creating useful applications, and continuously learning new technologies.
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* Frontend: HTML, CSS, JavaScript, React
+* Backend: Node.js, Express
+* Database: MongoDB
+* Languages: C, C++
+
+## 🚀 Projects
+
+### 🔹 Event Management System
+
+A full-stack application to create and manage events.
+
+### 🔹 RFID Security System
+
+Arduino-based security system using RFID technology.
+
+### 🔹 Expense Tracker
+
+A web app to track daily expenses efficiently.
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/your-username
+* LinkedIn: (add your link)
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ If you like this portfolio, feel free to give it a star!

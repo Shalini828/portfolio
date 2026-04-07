@@ -1,4 +1,4 @@
-# 💼 Shalini Jha – Portfolio
+# 💼 Shalini Kumari – Portfolio
 
 Welcome to my personal developer portfolio 🚀
 
@@ -16,7 +16,7 @@ I enjoy solving problems, creating useful applications, and continuously learnin
 * Frontend: HTML, CSS, JavaScript, React
 * Backend: Node.js, Express
 * Database: MongoDB
-* Languages: C, C++
+* Languages: C, C++, Python, Java
 
 ## 🚀 Projects
 

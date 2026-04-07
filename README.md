@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio 🚀
 
 ## 🌐 Live Demo
 
-👉 (Add your Vercel link here after deployment)
+👉 https://portfolio-zeta-bice-31.vercel.app
 
 ## 👩‍💻 About Me
 

@@ -34,9 +34,9 @@ A web app to track daily expenses efficiently.
 
 ## 📫 Contact Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (add your link)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/Shalini828
+* LinkedIn: https://www.linkedin.com/in/shalini-kumari-457a23368/
+* Email: jhashalini363@gmail.com
 
 ---
 

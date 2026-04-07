@@ -1,0 +1,185 @@
+{
+  "basics": {
+    "name": "Shalini Kumari",
+    "title": "Computer Science Undergraduate | Web Development | Open Source Contributor | DSA Learner | Aspiring Software Developer",
+    "summary": "As a Computer Science undergraduate with a strong passion for software development, I possess hands-on experience in C++ and a solid understanding of web technologies. I am dedicated to continuous learning and actively engage in practicing data structures and algorithms to enhance my problem-solving skills. I thrive on transforming innovative ideas into functional projects, demonstrating my ability to apply theoretical knowledge in practical settings. My goal is to grow into a proficient software professional while contributing effectively to team projects and initiatives. Interested in research-driven software development, distributed systems, and AI-powered applications.",
+    "location": "New Delhi, India",
+    "email": "jhashalini363@gmail.com",
+    "phone": "+91 8368538602",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shalini-kumari-457a23368"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Shalini828"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "AWS Cloud Club Gautam Buddha University",
+      "role": "Core Team Member – Web Development",
+      "dates": "January 2026 - Present",
+      "location": "India",
+      "bullets": [
+        "Core Team Web Developer at AWS Cloud Club, contributing to web development initiatives, supporting technical events, and collaborating on cloud-focused community projects."
+      ]
+    },
+    {
+      "company": "Open Source Connect",
+      "role": "Open Source Contributor",
+      "dates": "January 2026 - Present",
+      "location": "Delhi, India",
+      "bullets": [
+        "Contributed to feature enhancements and bug fixes in collaborative open-source projects.",
+        "Refactored code to improve modularity and maintainability.",
+        "Followed Git workflow including branching, pull requests, and issue tracking.",
+        "Enhanced backend logic and improved code quality through structured Git workflows."
+      ]
+    },
+    {
+      "company": "Resourcio Community",
+      "role": "Open Source Contributor",
+      "dates": "February 2026 - March 2026",
+      "location": "India",
+      "bullets": [
+        "Contributed to open-source projects, enhancing backend logic and improving code quality through structured Git workflows."
+      ]
+    },
+    {
+      "company": "Elite Coders",
+      "role": "Contributor",
+      "dates": "January 2026 - March 2026",
+      "location": "India",
+      "bullets": [
+        "Active contributor to community-driven coding projects."
+      ]
+    },
+    {
+      "company": "DoraDAO",
+      "role": "GWY Pre-Conference Ambassador",
+      "dates": "February 2026 - February 2026",
+      "location": "India",
+      "bullets": [
+        "Served as a GWY Pre-Conf Ambassador for GWYConf’26, contributing to community engagement, outreach, and event promotion while strengthening leadership and communication skills."
+      ]
+    },
+    {
+      "company": "eDC (Entrepreneurship Development Cell) IIT Delhi",
+      "role": "Campus Ambassador – BECon’26",
+      "dates": "December 2025 - February 2026",
+      "location": "New Delhi, Delhi, India",
+      "bullets": [
+        "Campus Ambassador for BECon’26, eDC IIT Delhi. Promoted events, boosted engagement, and ranked among top ambassadors."
+      ]
+    },
+    {
+      "company": "InAmigos Foundation (IAF)",
+      "role": "Web Content Writer",
+      "dates": "January 2026 - January 2026",
+      "location": "India",
+      "bullets": [
+        "Write content for the project to make an impact in the society✨"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "CGPA > 9",
+      "context": "Maintained high academic performance in Bachelor of Technology (Computer Science)."
+    },
+    {
+      "title": "Top Ambassador Rank",
+      "context": "Ranked among top ambassadors for BECon'26 at eDC IIT Delhi."
+    },
+    {
+      "title": "Open Source Impact",
+      "context": "Actively contributing to multiple open-source communities including AWS Cloud Club and Open Source Connect."
+    }
+  ],
+  "projects": [
+    {
+      "title": "RFID Security System",
+      "stack": "Arduino, RFID Module",
+      "dates": "12/2025 – 12/2025",
+      "bullets": [
+        "Developed an RFID-based access control system using Arduino and RFID module.",
+        "Implemented user authentication and real-time access indication using LEDs/buzzer."
+      ],
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/Shalini828/RFID-Security-System-Arduino"
+        }
+      ]
+    },
+    {
+      "title": "QR-Attendance-System",
+      "stack": "QR Scanning Logic",
+      "dates": "09/2025 – 09/2025",
+      "bullets": [
+        "Designed a QR-based attendance system to automate student attendance.",
+        "Used QR scanning logic to store and verify attendance records efficiently."
+      ],
+      "links": []
+    },
+    {
+      "title": "Expense Tracker",
+      "stack": "Web Technologies",
+      "dates": "Recent",
+      "bullets": [
+        "Developed a web application to track and manage daily expenses."
+      ],
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/Shalini828/expense-tracker"
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "Programming Languages": ["C", "C++", "Python", "Java"],
+    "Web Technologies": ["HTML", "CSS", "JavaScript", "SQL", "Node.js", "React.js", "REST API", "Responsive Design"],
+    "Tools & Platforms": ["Git", "GitHub", "Arduino IDE", "VS Code", "Postman", "Chrome DevTools", "Issue Tracking"],
+    "Other Skills": [
+      "Data Structures & Algorithms",
+      "Problem Solving",
+      "Algorithm Design",
+      "Collaborative Development",
+      "Technical Documentation",
+      "Code Refactoring",
+      "Modular Code Design",
+      "Team Collaboration",
+      "Community Building"
+    ]
+  },
+  "education": [
+    {
+      "institution": "Gautam Buddha University, Greater Noida",
+      "degree": "Bachelor of Technology (Computer Science)",
+      "dates": "August 2024 - July 2028",
+      "location": "Uttar Pradesh, India",
+      "details": "CGPA > 9"
+    }
+  ],
+  "certifications": [
+    "Deloitte Australia - Cyber Job Simulation",
+    "Programming with Python 3.X",
+    "Internal Smart India Hackathon 2025",
+    "JPMorganChase - Software Engineering Job Simulation",
+    "Deloitte Australia - Data Analytics Job Simulation",
+    "HackData’25 – Hackathon",
+    "Smart India Hackathon (SIH’25)",
+    "GDG DevFest JMI"
+  ],
+  "extra": [
+    "Aspiring Software Developer",
+    "DSA Learner",
+    "Delhi, India (Location)",
+    "Page 1 of 2",
+    "Page 2 of 2"
+  ]
+}
